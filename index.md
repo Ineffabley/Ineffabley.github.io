@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+<div>
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>杨文青</h1>
+      <p><b>本科生</b></p>
+      <p><b>石家庄铁道大学信息科学与技术学院</b></p>
+      <p><b>邮箱：1873587332@qq.com</b></p>
+      <p><a href="/index-en.html">English Version</a></p>
+    </td>
+    <td width="25%">
+      <img src="/zhengjianzhao.jpg" width="100%">
+    </td>
+  </tr>
+</table>
+</div>
 
-You can use the [editor on GitHub](https://github.com/Ineffabley/Ineffabley-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人简介
 
-### Markdown
+一直渴望做一个温柔而有力量的人，实际上的性格倾向于内向，被动，自我，爱思考。是一个认真而严谨的人，勤奋而负有责任感，认准的事情很少会改变或气馁，做事深思熟虑，信守承诺并值得信赖。
+依靠理智的思考来做决定，总是采取客观、合乎逻辑的步骤，不会感情用事，甚至在遇到危机时都能够表现得平静。谨慎而传统，重视稳定性、合理性；你天生独立，需要把大量的精力倾注到工作中，并希望其它人也是如此，善于聆听并喜欢将事情清晰而条理的安排好。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+### 最新消息
+1.学习构建知识图谱及NLP自然语言处理
+2.学习软件自动化测试
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### 研究方向
+- 软件测试
+- 软件开发
+- 深度学习
+- 自然语言处理
 
-1. Numbered
-2. List
+### 荣誉奖励
+- 奖学金
+获得一次单项奖学金
+- 荣誉称号
+院级“优秀团员”
+- 比赛获奖
+一次性通过CET4、CET6考试
+通过中级软件设计师考试
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 项目研究
+#### 学校/研究所（2018.9~至今）
+- **记账本**  
+基于Android开发的一款记账软件,可以实现用户对消费的管理，并将其消费情况进行可视化
+- **全球疫情可视化系统**  
+2020年开始，新冠疫情迅速在世界范围内传播开来，通过Python获取全球疫情数据，利用ssm框架，结合Echarts，将世界各个国家的疫情情况展示在地图上，并可视化疫情发展趋势
+- **房屋租赁系统**
+基于Springboot+Bootstrap+MySQL开发的系统，实现房主对房屋情况的发布，购买者浏览根据需要浏览房屋，确定租赁信息进行租赁。
+- **网上商城**
+采用PHP语言开发的网上商城，实现了网上商城应有的功能。
+- **公文流转系统**
+实现公文在办公系统内的审批功能。
+- **河北省重大技术需求填报系统**
+- **民航知识图谱**
+根据民航业年度公报（年报）构建民航业知识图谱并实现语义查询。
+- **学习永不止步，精彩未完待续**
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ineffabley/Ineffabley-github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  
+
+
+
