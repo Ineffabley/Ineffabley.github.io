@@ -6,8 +6,7 @@
       <p><b>本科生</b></p>
       <p><b>石家庄铁道大学信息科学与技术学院</b></p>
       <p><b>邮箱：1873587332@qq.com</b></p>
-       <p><a href="https://www.cnblogs.com/ywqtro/">博客园主页</a></p>
-
+      <p><a href="https://www.cnblogs.com/ywqtro/">博客园主页</a></p>
     </td>
     <td width="25%">
       <img src="/证件照.jpg" width="100%">
